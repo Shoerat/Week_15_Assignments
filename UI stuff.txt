@@ -1,0 +1,8 @@
+The three UI Objects are objects I wished I can put in are a score object, a HP tracker and a pause button that doesn't work. 
+
+Working on these assignments this weeks show how unprepared I am with coding and scripting that 2 of the 3 UI objects are just random floating text that do not do anything.
+I know its another excuse but since it is the holidays, my attention was always to something else instead of the assignments and course such that I am working last minute.
+
+What I wanted my UI objects to be is that the HP will be displayed as a simple fraction that will update whenever the player is hit. Since its a prototype, having things be discrete numbers that change dynamically will help us to ascess the game.
+The score will also be a simple counter that just tracks how many enemies the player has slain. Finally I just took the Pause button from the GUI sample scene and read up on how to add the button. I don't understand the simple scripts so I just put it in.
+The one thing I understand from this excercise is that UI operates on the Canvas object in Unity. Orginally I wanted the HP fraction to be above the player square and follow it around but even updating the HP was beyond me this time.
